@@ -1,6 +1,6 @@
-# demojwt
+# platzimusic
 
-> Demo Para practicar Json Web Tokens
+> Demo para practiar Vue Js
 
 ## Build Setup
 
