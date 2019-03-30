@@ -13,7 +13,7 @@
     .hero-body
       .container.has-text-centered
         h1.title Platzi Music
-        h2.subtitle Canciones que estan Vue-nisimas!
+        h2.subtitle Canciones que estan a con todo
         pm-player
 </template>
 
